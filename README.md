@@ -43,8 +43,9 @@ NBFCs face higher credit risk than traditional banks due to their exposure to un
 
 # Files in this repo
 
-- `Credit_Risk_Management_Finnable_Project_Report.pdf` — full MBA project report (methodology, literature review, data analysis, appendix)
-- `Credit_Risk_Management_NBFC_Research_Paper.pdf` — peer-reviewed paper based on this study
+- 'Credit_Risk_Management_Finnable_Project_Report.pdf` — full MBA project report (methodology, literature review, data analysis, appendix)
+- 'Credit_Risk_Management_NBFC_Research_Paper.pdf` — peer-reviewed paper based on this study
+- 'Credit_Risk_Management_Dashboard.xlsx` — Excel workbook with data tables and charts
 
 # About
 
